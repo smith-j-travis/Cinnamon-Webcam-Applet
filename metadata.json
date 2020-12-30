@@ -1,0 +1,6 @@
+{
+ "uuid": "webcamstatus@tsmith",
+ "name": "Webcam Status",
+ "description": "Display whether webcam is on or not",
+ "max-instances": -1
+}
